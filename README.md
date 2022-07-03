@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in React, UX and UI
+- 📫 How to reach me @alexferreira_23
